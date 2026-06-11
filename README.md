@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/logo_ugr.png" alt="Logotipo Universidad de Granada" width="200">
+</p>
+
 # 🎓 Trabajo Final: Diseño de Interfaces de Usuario (DIU)
 
 **Autor:** Alberto Rodríguez Fernández  
