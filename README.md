@@ -10,6 +10,16 @@
 
 ---
 
+## 🌐 Despliegue del Proyecto (Web Interactiva)
+
+Para facilitar la evaluación y lectura de este caso de estudio bajo los mejores estándares de usabilidad, este repositorio ha sido desplegado como una página web navegable mediante GitHub Pages:
+
+🚀 **[Ver el Trabajo Final Online (GitHub Pages)](https://albertorodriguezfernandez.github.io/TrabajoFinalDIU/)**
+
+*(Nota: Reemplaza "tu_usuario" con tu nombre de usuario real en GitHub).*
+
+---
+
 ## 📌 Descripción Académica
 
 Este repositorio consolida el trabajo final de la asignatura, demostrando la aplicación práctica y teórica de las metodologías ágiles y el **Diseño Centrado en el Usuario (DCU)**. El proyecto se divide en dos bloques fundamentales que evidencian la madurez analítica adquirida:
