@@ -16,8 +16,6 @@ Para facilitar la evaluación y lectura de este caso de estudio bajo los mejores
 
 🚀 **[Ver el Trabajo Final Online (GitHub Pages)](https://albertorodriguezfernandez.github.io/TrabajoFinalDIU/)**
 
-*(Nota: Reemplaza "tu_usuario" con tu nombre de usuario real en GitHub).*
-
 ---
 
 ## 📌 Descripción Académica
