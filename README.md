@@ -27,6 +27,28 @@ Este repositorio consolida el trabajo final de la asignatura, demostrando la apl
 
 ---
 
+## 🛠️ Stack Tecnológico y Metodologías Aplicadas
+
+**Herramientas de Evaluación y Diseño:**
+* **Diseño UI y Prototipado:** Figma, Figma Make (IA Generativa), Arquitectura de Componentes.
+* **Evaluación Biométrica y Heurística:** GazeMapping (Eye Tracking), Heurio, Métricas SUS.
+* **Auditoría de Accesibilidad:** WAVE, Funkify.
+
+**Marcos de Trabajo (Frameworks):**
+* Diseño Centrado en el Usuario (DCU) e ISO 13407.
+* Lean UX (Ciclos iterativos y mitigación de sesgos).
+* Atomic Design (Escalabilidad y diseño responsive).
+
+---
+
+## 🎨 Prototipo Interactivo (Eco Mercado UGR)
+
+El rediseño visual y conceptual del supuesto práctico ha sido materializado en un prototipo navegable y responsive. 
+
+🔗 **[Explorar el Prototipo en Figma Site](https://output-iframe-26114267.figma.site/)**
+
+---
+
 ## 📑 Tabla de Contenidos
 
 * 📂 [**PARTE I: Mi Experiencia UX**](./ParteI.md) - Portfolio narrativo, análisis de aportaciones y autovaloración profesional.
